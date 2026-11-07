@@ -1,14 +1,7 @@
 # 🦴 Bone Fracture Detection Web Application
 
-[![Version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/HitanDubey/Bone_detection_web_app)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 
 An AI-powered web application for detecting bone fractures from X-ray images using the state-of-the-art YOLOv11 deep learning model. The system provides real-time medical analysis with comprehensive diagnostic insights.
-## Running Video 
-## Running Video / Click on the image for downloading raw video to watch
-
-[![Demo of the Bone Fracture Detection Web Application](Video_demo.png)](https://github.com/HitanDubey/Bone_detection_web_app/blob/main/Running_Video.mp4)
 
 *Click the image to watch the demo video*
 *Demo of the Bone Fracture Detection Web Application*
@@ -197,9 +190,3 @@ This system is suitable for:
 - 🏥 Radiology department assistance
 - 🔬 Research institutions
 - 💻 Healthcare technology development
-
----
-
-**📂 Repository**: [https://github.com/HitanDubey/Bone_detection_web_app](https://github.com/HitanDubey/Bone_detection_web_app)  
-**👨‍💻 Maintainer**: Hitan Dubey  
-**🏷️ Version**: 2.0 (YOLOv11 Enhanced)
